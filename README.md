@@ -7,3 +7,7 @@ https://github.com/Asabeneh/30-Days-Of-JavaScript
 
 ### 30 days of python
 https://github.com/Asabeneh/30-Days-Of-Python
+
+Name = Vaibhav Gupta
+Branch= AI.DS-B
+Roll NO.-21EARAD115
